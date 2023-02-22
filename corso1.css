@@ -1,0 +1,70 @@
+*{
+	text-align: center; 
+	font-family: 'Montserrat', sans-serif;
+	margin: auto;
+
+}
+
+body{
+	background-image: url(background.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding-top: 50px;
+}
+
+img{
+	padding-top: 60px;
+	width :200px;
+	height: 80px;
+}
+
+.total{background-color: rgba(0,0,0,0.5);
+	border-radius: 15px;
+	width: 950px;
+	height: 650px;
+}
+
+.grassetto{
+	color: #00dd00;
+	font-size: 28px;
+}
+
+nav{
+	background-color: #00dd00;
+	width: 800px;
+	padding: 8px;
+}
+
+.monopattino{
+	text-align: left;
+	padding-left: 70px;
+	color: white;
+	font-size: 13px;
+
+}
+
+#name{
+	font-size: 20px;
+	font-weight: 800;
+
+}
+
+.orange{
+	border-radius: 5px;
+	width: 30%;
+	margin: 0;
+}
+
+.green{
+	border-radius: 5px;
+	width: 60%;
+	margin: 0;
+}
+
+
+.red{
+	border-radius: 5px;
+	width: 15%;
+	margin: 0;
+
+} 
